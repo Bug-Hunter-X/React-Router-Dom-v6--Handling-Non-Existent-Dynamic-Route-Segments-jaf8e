@@ -1,0 +1,1 @@
+This repository demonstrates a common issue in React Router Dom v6: how to gracefully handle navigation to dynamic routes where the dynamic segment (e.g., a user ID) doesn't correspond to existing data. The `UnexpectedRoute.js` file shows the problematic code, and `UnexpectedRouteSolution.js` presents a solution using error handling and conditional rendering.
